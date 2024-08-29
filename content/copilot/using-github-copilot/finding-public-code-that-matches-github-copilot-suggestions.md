@@ -1,4 +1,4 @@
----
+---function fizzBuzz()function fizzBuzz()
 title: Finding public code that matches GitHub Copilot suggestions
 shortTitle: Find matching code
 intro: 'If you allow {% data variables.product.prodname_copilot %} to make suggestions that match publicly available code, you can see references to the matching code on {% data variables.product.prodname_dotcom_the_website %}.'
